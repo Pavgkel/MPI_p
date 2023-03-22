@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\pawel\Desktop\магистратура\высокоэффективные алгоритмы\Project1\MPI_Parralel2\Source.cpp(243,35): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\pawel\Desktop\магистратура\высокоэффективные алгоритмы\Project1\MPI_Parralel2\Source.cpp(258,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\pawel\Desktop\магистратура\высокоэффективные алгоритмы\Project1\MPI_Parralel2\Source.cpp(253,9): warning C4101: Start: неиспользованная локальная переменная
+C:\Users\pawel\Desktop\магистратура\высокоэффективные алгоритмы\Project1\MPI_Parralel2\Source.cpp(253,16): warning C4101: Finish: неиспользованная локальная переменная
+C:\Users\pawel\Desktop\магистратура\высокоэффективные алгоритмы\Project1\MPI_Parralel2\Source.cpp(253,24): warning C4101: Duration: неиспользованная локальная переменная
+  MPI_Parralel2.vcxproj -> C:\Users\pawel\Desktop\магистратура\высокоэффективные алгоритмы\Project1\Debug\MPI_Parralel2.exe

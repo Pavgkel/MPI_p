@@ -1,0 +1,3 @@
+﻿  Example.cpp
+C:\Users\pawel\Desktop\магистратура\высокоэффективные алгоритмы\Project1\Example_peresilka\Example.cpp(18,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "MPI_Status"
+  Example_peresilka.vcxproj -> C:\Users\pawel\Desktop\магистратура\высокоэффективные алгоритмы\Project1\Debug\Example_peresilka.exe
